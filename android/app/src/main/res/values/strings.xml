@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Helix WiFi Mic</string>
+    <string name="notification_channel_name">Audio Streaming</string>
+    <string name="notification_channel_description">Notification untuk streaming audio</string>
+    <string name="notification_title">Helix WiFi Mic</string>
+    <string name="notification_text">Audio streaming aktif</string>
+</resources>
